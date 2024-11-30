@@ -2,7 +2,7 @@
 
 PPGB-MS2 is a tool for predicting the MS/MS of small molecules.
 
-A comparison was made between PPGB-MS2 and two commonly used high-performance secondary mass spectrometry prediction tools, namely 3DMolMS and CFM-ID. The following is the relevant introduction of 3DMolMS and CFM-ID.
+A comparison was made between PPGB-MS2 and two commonly used high-performance MS/MS prediction tools, namely 3DMolMS and CFM-ID. The following is the relevant introduction of 3DMolMS and CFM-ID.
 
 ## [3DMolMS](https://github.com/JosieHong/3DMolMS)
 
@@ -16,7 +16,7 @@ Please cite: Yuhui Hong, Sujun Li, Christopher J Welch, Shane Tichy, Yuzhen Ye, 
 
 ## [CFM-ID](https://cfmid.wishartlab.com/)
 
-CFM-ID is a widely used high-performance secondary mass spectrometry prediction tool. It also has a web server available for use. Currently, it has been updated to version 4.0. CFM-ID 4.0 incorporates a more robust machine learning process that utilizes a novel tensor representation to describe the topology of chemical structures. It also adopts a new approach for dealing with ring cleavage and new rule-based methods, which improve the MS/MS spectral prediction for specific classes of chemicals where the machine-learned model performs poorly.
+CFM-ID is a widely used high-performance MS/MS prediction tool. It also has a web server available for use. Currently, it has been updated to version 4.0. CFM-ID 4.0 incorporates a more robust machine learning process that utilizes a novel tensor representation to describe the topology of chemical structures. It also adopts a new approach for dealing with ring cleavage and new rule-based methods, which improve the MS/MS spectral prediction for specific classes of chemicals where the machine-learned model performs poorly.
 
 [Read paper in Analytical Chemistry](https://pubs.acs.org/doi/10.1021/acs.analchem.1c01465) | [Read paper in Nucleic Acids Research](https://academic.oup.com/nar/article/50/W1/W165/6591530?login=false)
 
