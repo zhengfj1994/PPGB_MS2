@@ -6,8 +6,6 @@ A comparison was made between PPGB-MS2 and two commonly used high-performance se
 
 ## [3DMolMS](https://github.com/JosieHong/3DMolMS)
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] (free for academic use) 
-
 **3D** **Mol**ecular Network for **M**ass **S**pectra Prediction (3DMolMS) is a deep neural network model to predict the MS/MS spectra of compounds from their 3D conformations. This model's molecular representation, learned through MS/MS prediction tasks, can be further applied to enhance performance in other molecular-related tasks, such as predicting retention times (RT) and collision cross sections (CCS). 
 
 [Read paper in Bioinformatics](https://academic.oup.com/bioinformatics/article/39/6/btad354/7186501) | [Try online service at GNPS](https://spectrumprediction.gnps2.org) | [Try model on Konia](https://koina.wilhelmlab.org/docs#post-/3dmolms_qtof/infer) | [Install from PyPI](https://pypi.org/project/molnetpack/)
